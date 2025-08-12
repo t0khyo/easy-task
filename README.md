@@ -1,5 +1,8 @@
 # EasyTask: A Simple Task Management Application
 
+<img width="1216" height="882" alt="image" src="https://github.com/user-attachments/assets/8fbfff01-f5f6-4ab7-abcd-9023f4878aec" />
+
+
 ## Overview
 
 EasyTask is a clean and straightforward task management application designed to help you stay organized. Built using the Angular framework, this project provides a responsive user interface for adding, tracking, and managing your daily to-do lists with ease.
